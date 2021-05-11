@@ -1,0 +1,26 @@
+mst
+degree 0
+n 1
+mst
+degree 0
+clear
+mst
+n 2
+degree 0
+mst
+degree 1
+mst
+i 0;1;4
+mst
+degree 0
+degree 1
+i 1;1;5
+mst
+degree 1
+i 0;0;16
+degree 0
+mst
+i 1;0;43
+degree 0
+mst
+exit

@@ -1,0 +1,67 @@
+n 7
+clear
+edge_count
+i 0;1;2
+degree 0
+edge_count
+mst
+clear
+degree 0
+edge_count
+i 5;6;28
+mst
+clear
+degree 0
+edge_count
+n 1
+mst
+i 0;2;3
+i 0;1;2
+d 0;0;2
+i 0;0;0
+i 0;0;2
+degree 0
+edge_count
+mst
+i 0;0;4444242
+mst
+d 0;0
+edge_count
+clear
+edge_count
+n 5
+i 0;1;2
+i 1;2;3
+i 2;3;4
+i 3;4;5
+i 4;0;6
+mst
+i 0;3;0.1
+mst
+i 1;2;10
+mst
+i 1;2;0.01
+mst
+edge_count
+d 0;4
+mst
+d 0;1
+mst
+d 0;2
+d 3;0
+degree 0
+mst
+clear
+degree 0
+degree 1
+degree 2
+degree 3
+degree 4
+degree 5
+i 0;1;2
+i 2;3;4
+i 3;4;5
+i 4;2;0
+i 4;2;5
+mst
+exit
